@@ -1,0 +1,13 @@
+### YamlMime:Sample
+sample:
+- name: Test 1
+  description: A sample that shows how to use Azure APIs.
+  generateZip: false
+  author: Max
+  languages:
+  - csharp
+  - vbnet
+  - fsharp
+  technologies:
+  - office
+  - windows
